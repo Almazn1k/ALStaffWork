@@ -1,0 +1,7 @@
+name: ALStaffWork
+version: 0.1-BETA
+main: com.almazn1k.staffwork.StaffWork.Main
+api-version: 1.16 # Critical for 1.16.5 compatibility
+commands:
+    staffwork:
+       description: A command.
